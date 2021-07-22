@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=AnimalCounterApp
+comment0.text=\r\n\ The\ main\ class\ of\ the\ Animal\ Counter,\ calls\ all\ of\ the\ methods\ and\ classes\ that\ are\ required\r\n\ or\ requested.\r\n\r\n\ Dean\ Kammerer\r\n\ 9/21/2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ countAlligators()
+comment3.params=
+comment3.target=void\ countSheep()
+comment4.params=c\ maxCount
+comment4.target=void\ count(Countable,\ int)
+comment5.params=
+comment5.target=int\ getAnimalCount()
+numComments=6

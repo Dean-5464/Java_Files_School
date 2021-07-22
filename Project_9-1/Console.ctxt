@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Console
+comment1.params=prompt
+comment1.target=java.lang.String\ getString(java.lang.String)
+comment2.params=prompt
+comment2.target=int\ getInt(java.lang.String)
+comment3.params=prompt\ min\ max
+comment3.target=int\ getInt(java.lang.String,\ int,\ int)
+comment4.params=prompt
+comment4.target=double\ getDouble(java.lang.String)
+comment5.params=prompt\ min\ max
+comment5.target=double\ getDouble(java.lang.String,\ double,\ double)
+numComments=6
