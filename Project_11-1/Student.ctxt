@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ A\ student\ object\ that\ can\ hold\ a\ score,\ first\ name,\ and\ last\ name\r\n\r\n\ Dean\ Kammerer\r\n\ 10/7/2020\r\n
+comment1.params=firstName\ lastName\ score
+comment1.target=Student(java.lang.String,\ java.lang.String,\ double)
+comment10.params=
+comment10.target=void\ displayStudentInfo()
+comment2.params=
+comment2.target=java.lang.String\ getFullName()
+comment3.params=
+comment3.target=java.lang.String\ getFirstName()
+comment4.params=
+comment4.target=java.lang.String\ getLastName()
+comment5.params=
+comment5.target=double\ getScore()
+comment6.params=firstName\ lastName
+comment6.target=void\ setFullName(java.lang.String,\ java.lang.String)
+comment7.params=firstName
+comment7.target=void\ setFirstName(java.lang.String)
+comment8.params=lastName
+comment8.target=void\ setLastName(java.lang.String)
+comment9.params=score
+comment9.target=void\ setScore(double)
+numComments=11
