@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Grade
+comment0.text=\r\n\ A\ class\ that\ both\ holds\ and\ converts\ the\ numeric\ grade\ information\ given\ by\ the\ user\r\n\r\n\ Dean\ Kammerer\r\n\ 9/21/2020\r\n
+comment1.params=
+comment1.target=Grade()
+comment2.params=number
+comment2.target=Grade(int)
+comment3.params=number
+comment3.target=void\ setNumber(int)
+comment4.params=
+comment4.target=int\ getNumber()
+comment5.params=
+comment5.target=java.lang.String\ getLetter()
+numComments=6
