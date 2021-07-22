@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Console
+comment1.params=sc\ prompt
+comment1.target=int\ getInt(java.util.Scanner,\ java.lang.String)
+comment2.params=sc\ prompt\ min\ max
+comment2.target=int\ getIntWithinRange(java.util.Scanner,\ java.lang.String,\ int,\ int)
+comment3.params=sc\ prompt
+comment3.target=java.lang.String\ getRequiredString(java.util.Scanner,\ java.lang.String)
+comment4.params=sc\ prompt\ s1\ s2
+comment4.target=java.lang.String\ getChoiceString(java.util.Scanner,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=5
