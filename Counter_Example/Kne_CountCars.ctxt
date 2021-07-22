@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Kne_CountCars
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ countFord()
+comment3.params=
+comment3.target=void\ countHonda()
+comment4.params=c\ maxCount
+comment4.target=void\ count(Countable,\ int)
+comment5.params=
+comment5.target=int\ getCarCount()
+numComments=6
