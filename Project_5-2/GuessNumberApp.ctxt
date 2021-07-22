@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GuessNumberApp
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=sc\ prompt\ s1\ s2
+comment10.target=java.lang.String\ getChoiceString(java.util.Scanner,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ displayWelcomeMessage()
+comment3.params=
+comment3.target=int\ getRandomNumber()
+comment4.params=
+comment4.target=void\ displayPleaseGuessMessage()
+comment5.params=counter
+comment5.target=void\ displayCorrectGuessMessage(int)
+comment6.params=number\ guessNumber
+comment6.target=void\ displayGuessAgainMessage(int,\ int)
+comment7.params=sc\ prompt
+comment7.target=int\ getInt(java.util.Scanner,\ java.lang.String)
+comment8.params=sc\ prompt\ min\ max
+comment8.target=int\ getIntWithinRange(java.util.Scanner,\ java.lang.String,\ int,\ int)
+comment9.params=sc\ prompt
+comment9.target=java.lang.String\ getRequiredString(java.util.Scanner,\ java.lang.String)
+numComments=11
