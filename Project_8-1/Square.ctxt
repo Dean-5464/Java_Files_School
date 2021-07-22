@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\r\n\ An\ Extension\ of\ the\ Abstract\ Shape\ class\ that\ defines\ the\ object\ as\ a\ "square"\ by\ changing\ it's\ numeric\ values\ and\ formulas\r\n\r\n\ Dean\ Kammerer\r\n\ 9/21/2020\r\n
+comment1.params=
+comment1.target=Square()
+comment2.params=w
+comment2.target=Square(double)
+comment3.params=
+comment3.target=double\ getWidth()
+comment4.params=w
+comment4.target=void\ setWidth(double)
+comment5.params=
+comment5.target=double\ getArea()
+comment6.params=
+comment6.target=java.lang.String\ getShapeType()
+numComments=7
